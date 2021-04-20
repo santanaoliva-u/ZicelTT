@@ -1,6 +1,6 @@
 # Zice lTT
 
-![Zice ITT](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
         ___________________________________________
        |                                           |
        * Author : Fastmore Crak - fastmorecrak.com *
@@ -13,4 +13,6 @@
 
 Zice lTT Ter permitira usar de forma rapida Msvenom 
 este scrip es para pincipiantes
+
+![Zice ITT](https://mexicanpentester.com/wp-content/uploads/2019/11/68747470733a2f2f692e696d6775722e636f6d2f744e39713569472e706e67.png)
 
