@@ -18,13 +18,10 @@ este scrip es para pincipiantes
 
 
 
-
-        _______________________________________________________
-       |                                                       |
                       # Comandos
-          git clone https://github.com/FastmoreCrak/ZicelTT.git
-          cd ./ZiceLTT
-          chmod +x ZiceLTT.sh
-          ./ZiceLTT.sh
-       |_______________________________________________________|
+        _______________________________________________________
 
+           $git clone https://github.com/FastmoreCrak/ZicelTT.git
+           $cd ./ZiceLTT
+           $chmod +x ZiceLTT.sh
+           $./ZiceLTT.sh
