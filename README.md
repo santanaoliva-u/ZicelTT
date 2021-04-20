@@ -19,8 +19,6 @@ este scrip es para pincipiantes
 
 
 # Comandos
-    _
-
     $git clone https://github.com/FastmoreCrak/ZicelTT.git
     $cd ./ZiceLTT
     $chmod +x ZiceLTT.sh
