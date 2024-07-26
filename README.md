@@ -1,6 +1,5 @@
 # Zice lTT - Creación Automática de Payloads
-
-![Logo Zice lTT]([https://github.com/santanaoliva-u/ZicelTT/blob/main/Comandos/img_1.png?raw=true](https://github.com/santanaoliva-u/ZicelTT/blob/main/Comandos/img_1.png?raw=true))
+![Logo Zice lTT](https://github.com/santanaoliva-u/ZicelTT/blob/main/Comandos/img_1.png?raw=true)
 
 
 ## Acerca del Proyecto
