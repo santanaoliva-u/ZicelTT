@@ -19,3 +19,4 @@ este scrip es para pincipiantes::
     $cd ./ZiceLTT
     $chmod +x ZiceLTT.sh
     $./ZiceLTT.sh
+![[https://github.com/santanaoliva-u/ZicelTT/blob/main/Comandos/img_1.png?raw=true]]
